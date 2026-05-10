@@ -1,7 +1,7 @@
 # Bowcomp
 
 <p align="center">
-  <img src="bowcomp/bowcomp-banner.png" alt="Bowcomp Banner" width="100%" />
+  <img src="bowcomp-banner.png" alt="Bowcomp Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ The project focuses on a serious, minimal, and productivity-oriented assistant e
 ## Interface
 
 <p align="center">
-  <img src="bowcomp/bowcomp-interface.png" alt="Bowcomp Interface Screenshot" width="100%" />
+  <img src="bowcomp-interface.png" alt="Bowcomp Interface Screenshot" width="100%" />
 </p>
 
 Bowcomp is built around a simple idea: the main screen should stay calm, clear, and useful.
